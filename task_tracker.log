@@ -1,6 +1,24 @@
-demoTest1 started in 2024-11-19 17:52:50
-demoTest1 exited in 2024-11-19 17:52:53 with output: task ended and logged to demoTest1_output.log
+demoTest1 started in 2024-11-19 21:32:03
+demoTest1 exited in 2024-11-19 21:32:06 with output: task ended and logged to demoTest1_output.log
 
-demoTest2 started in 2024-11-19 17:52:53
-demoTest2 exited in 2024-11-19 17:52:56 with output: task ended and logged to demoTest2_output.log
+demoTest2 started in 2024-11-19 21:32:06
+demoTest2 exited in 2024-11-19 21:32:09 with output: task ended and logged to demoTest2_output.log
+
+demoTest1 started in 2024-11-19 21:32:42
+demoTest1 exited in 2024-11-19 21:32:45 with output: task ended and logged to demoTest1_output.log
+
+demoTest2 started in 2024-11-19 21:32:45
+demoTest2 exited in 2024-11-19 21:32:48 with output: task ended and logged to demoTest2_output.log
+
+demoTest1 started in 2024-11-19 21:33:46
+demoTest1 exited in 2024-11-19 21:33:49 with output: task ended and logged to demoTest1_output.log
+
+demoTest2 started in 2024-11-19 21:33:49
+demoTest2 exited in 2024-11-19 21:33:52 with output: task ended and logged to demoTest2_output.log
+
+demoTest1 started in 2024-11-19 21:34:14
+demoTest1 exited in 2024-11-19 21:34:17 with output: task ended and logged to demoTest1_output.log
+
+demoTest2 started in 2024-11-19 21:34:17
+demoTest2 exited in 2024-11-19 21:34:20 with output: task ended and logged to demoTest2_output.log
 

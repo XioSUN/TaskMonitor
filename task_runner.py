@@ -5,6 +5,7 @@
 import subprocess
 import sys
 from py.src.utils import time_format
+from py.src.utils import email_notify
 
 # 指定需要完成的核心业务和对应二进制文件的项目路径
 main_task_list = (
@@ -53,3 +54,5 @@ if __name__ == "__main__":
     print(f"-------------------------------------------------------"
           f"\nDemo ended in {time_format.get_formatted_time()}, output has been saved to {task_track_file}.\n"
           f"+++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+
+    email_notify.send_email_with_attachment()
